@@ -1,0 +1,38 @@
+{
+    "Objetos":[
+        {
+            "nombre":"Jonh Doe",
+            "profesion":"Programador",
+            "edad":25,
+            "lenguajes":["PHP","Javascript","Dart"],
+            "disponibilidadParaViajar":true,
+            "rangoProfesional": {
+                "aniosDeExperiencia": 12,
+                "nivel": "Junior"
+            }
+        },
+        {
+            "nombre":"Arthur Morgan",
+            "profesion":"Programador",
+            "edad":40,
+            "lenguajes":["PHP","Java","C++"],
+            "disponibilidadParaViajar":true,
+            "rangoProfesional": {
+                "aniosDeExperiencia": 20,
+                "nivel": "Senior"
+            }
+        },
+        {
+            "nombre":"Dutch Van Der Linde",
+            "profesion":"Programador",
+            "edad":50,
+            "lenguajes":["Python","Java","C++"],
+            "disponibilidadParaViajar":false,
+            "rangoProfesional": {
+                "aniosDeExperiencia": 36,
+                "nivel": "Senior"
+            }
+        }
+    ],
+    "Llaves" : ["123", "654", "65468"]
+  }
